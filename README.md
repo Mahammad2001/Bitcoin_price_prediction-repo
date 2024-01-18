@@ -1,2 +1,2 @@
-# Stock_Sentiment-repo
-Stock Sentiment Analysis
+# Bitcoin price prediction
+Bitcoin price prediction
